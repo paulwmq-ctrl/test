@@ -1,0 +1,5 @@
+{
+  "name": "RedBook Viral Creator",
+  "description": "A powerful React application to generate viral Little Red Book (Xiaohongshu) posts and cover images using Google Gemini API.",
+  "requestFramePermissions": []
+}
